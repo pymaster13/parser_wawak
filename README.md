@@ -1,6 +1,6 @@
 # Parser for wawak.com
 
-This project is a backend for online parsing for site wawak.com (2022). 
+This project is a backend for online parsing for site https://wawak.com (2022). 
 
 ## Getting Started
 Python version: 3.9.10
